@@ -1,2 +1,2 @@
 # asique
-A WordPress Plugin to help developer building WordPress Theme easyly
+A WordPress Plugin to help developer building WordPress Theme easily.
