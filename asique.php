@@ -1,10 +1,12 @@
 <?php
 
 /*
-
 Plugin Name: Asique
-version: 1.0.0
-
+Plugin URI: http://asique.me
+Description: A WordPress Plugin to help developer building WordPress Theme easily.
+Author: asikur22
+Version: 1.0.0
+Author URI: http://asique.me/
  */
 
 /*
